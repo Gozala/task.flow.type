@@ -9,6 +9,5 @@
 [include]
 
 [options]
-module.name_mapper='task.type.flow' -> '<PROJECT_ROOT>/src/Task.type'
 suppress_comment= \\(.\\|\n\\)*\\@FlowIssue
 suppress_comment= \\(.\\|\n\\)*\\@FlowIgnore

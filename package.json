@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
-  "name": "task.type.flow",
+  "name": "@task.flow/type",
   "description": "Interface difinitions for task.flow library",
   "keywords": [
     "task.type.flow",
     "typed",
     "flow"
   ],
-  "main": "./Task.type.js",
+  "main": "./Task.js",
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (https://gozala.io)",
-  "repository": "https://github.com/Gozala/task.type.flow",
+  "repository": "https://github.com/Gozala/task.flow.type",
   "license": "MIT",
   "devDependencies": {
     "flow-bin": "^0.75.0",
