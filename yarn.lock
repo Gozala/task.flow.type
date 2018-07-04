@@ -8,10 +8,6 @@
   dependencies:
     any-observable "^0.3.0"
 
-alias-quokka-plugin@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/alias-quokka-plugin/-/alias-quokka-plugin-0.1.0.tgz#e314d83b3189a106ebe81672d6d74d8d8e8da8e7"
-
 ansi-escapes@^1.0.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-1.4.0.tgz#d3a8a83b319aa67793662b13e761c7911422306e"
@@ -345,9 +341,9 @@ find-parent-dir@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/find-parent-dir/-/find-parent-dir-0.3.0.tgz#33c44b429ab2b2f0646299c5f9f718f376ff8d54"
 
-flow-bin@^0.69.0:
-  version "0.69.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.69.0.tgz#053159a684a6051fcbf0b71a2eb19a9679082da6"
+flow-bin@^0.75.0:
+  version "0.75.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.75.0.tgz#b96d1ee99d3b446a3226be66b4013224ce9df260"
 
 for-in@^1.0.2:
   version "1.0.2"

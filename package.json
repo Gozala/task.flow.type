@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.1.0",
   "name": "task.type.flow",
   "description": "Interface difinitions for task.flow library",
   "keywords": [
@@ -12,8 +12,7 @@
   "repository": "https://github.com/Gozala/task.type.flow",
   "license": "MIT",
   "devDependencies": {
-    "alias-quokka-plugin": "^0.1.0",
-    "flow-bin": "^0.69.0",
+    "flow-bin": "^0.75.0",
     "husky": "^0.14.0",
     "lint-staged": "^7.0.4",
     "prettier": "^1.9.2"
