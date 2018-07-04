@@ -1,0 +1,32 @@
+{
+  "version": "0.0.0",
+  "name": "task.type.flow",
+  "description": "Interface difinitions for task.flow library",
+  "keywords": [
+    "task.type.flow",
+    "typed",
+    "flow"
+  ],
+  "main": "./Task.type.js",
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (https://gozala.io)",
+  "repository": "https://github.com/Gozala/task.type.flow",
+  "license": "MIT",
+  "devDependencies": {
+    "alias-quokka-plugin": "^0.1.0",
+    "flow-bin": "^0.69.0",
+    "husky": "^0.14.0",
+    "lint-staged": "^7.0.4",
+    "prettier": "^1.9.2"
+  },
+  "scripts": {
+    "test": "flow check",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --no-semi --write",
+      "git add"
+    ]
+  },
+  "dependencies": {}
+}
